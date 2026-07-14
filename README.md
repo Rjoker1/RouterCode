@@ -1,3 +1,3 @@
 # RouterCode Downloads
 
-This repository contains RouterCode release downloads only. Source code is maintained privately.
+Official website, user manual, and more content are currently under update.
